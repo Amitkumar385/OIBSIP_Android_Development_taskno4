@@ -21,18 +21,3 @@ A general knowledge quiz application built with Flutter.
 | Quiz | One question at a time with A/B/C/D options |
 | Result | Final score, grade (A+–D), percentage, and retry option |
 
-## Getting Started
-
-```bash
-cd quiz_app
-flutter pub get
-flutter run
-```
-
-## Build APK
-
-```bash
-flutter build apk --release
-```
-
-APK: `build/app/outputs/flutter-apk/app-release.apk`
